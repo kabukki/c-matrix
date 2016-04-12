@@ -9,6 +9,7 @@ The library features simple tools to handle matrices and functions to apply basi
 * Subtractions
 * Scalar multiplication
 * Matrix multiplication
+* Matrix powers
 
 ## Stuff to come
 
@@ -16,6 +17,7 @@ More advanced operations on matrices, such as:
 * Matrix inverses
 * Transpositions
 * Submatrices
+* Row operations
 * ...
 
 Release date: tba :D
