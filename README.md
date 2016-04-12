@@ -1,7 +1,7 @@
 # LibMatrix
-## What is it ?
+###### Mathematical C Library to easily implement matrices in your program.
 
-Mathematical C Library to easily implement matrices in your program.
+## What is it ?
 
 The library features simple tools to handle matrices and functions to apply basic arithmetic operations on them.
 
