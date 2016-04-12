@@ -2,7 +2,7 @@
 
 ## What is it ?
 
-LibMatrix is a custom mathematical C library to easily implement matrices in your program.
+LibMatrix is a custom mathematical C library that helps you easily implement matrices in your program.
 
 The library features simple tools to handle matrices and functions to apply basic arithmetic operations on them.
 
