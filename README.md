@@ -20,7 +20,7 @@ More advanced operations on matrices, such as:
 * Row operations
 * ...
 
-Release date: tba :D
+Release date: TBA :smile:
 
 ## About the lib
 
