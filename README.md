@@ -25,5 +25,6 @@ Release date: TBA :stuck_out_tongue:
 ## About the lib
 
 Written in C by Lucien LE ROUX, 2016
+FREE OF USE.
 
 Static library
