@@ -1,8 +1,5 @@
 /*
-** matrix.h for matrix in /home/le-rou_c/docs/108trigo
-** 
 ** Made by Lucien LE-ROUX
-** Login   <le-rou_c@epitech.net>
 ** 
 ** Started on  Wed Mar  9 16:33:51 2016 Lucien LE-ROUX
 ** Last update Fri Mar 18 22:42:32 2016 Lucien LE-ROUX
